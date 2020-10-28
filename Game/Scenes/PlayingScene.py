@@ -132,6 +132,7 @@ class PlayingGameScene(Scene):
 
 
                 if self.game.getLives <= 0:
+                    GameConstants.GAME_OVER_SOUND.play()
                     f = open(os.path.join("highscore.dat"), "r")
                     if self.game.getScore > int(f.read()):
                         self.game.setHighScore(self.game.getScore)

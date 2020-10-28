@@ -11,6 +11,7 @@ class GameConstants:
     HEART = pygame.transform.scale(pygame.image.load(os.path.join("Assets" , "heart.png")) , (20,20))
     GAME_START_SOUND = pygame.mixer.Sound(os.path.join("Assets" , "Sound" ,"Game-start.wav"))
     GAME_OVER_SOUND = pygame.mixer.Sound(os.path.join("Assets" , "Sound" ,"Game-over.wav"))
+    GAME_OVER_SOUND = pygame.mixer.Sound(os.path.join("Assets" , "Sound" ,"Game-over.wav"))
     SWORD_SOUNDS = pygame.mixer.Sound(os.path.join("Assets" , "Sound" ,f"VOLUME_Sword-swipe-7.wav"))
     SPLASH_SOUND = pygame.mixer.Sound(os.path.join("Assets" , "Sound" , "Splatter-Small-1.wav"))
     BOMB_EXPLODE_SOUND = pygame.mixer.Sound(os.path.join("Assets" , "Sound" , "Bomb-explode.wav"))
