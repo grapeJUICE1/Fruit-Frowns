@@ -11,7 +11,7 @@ Most of the assets are from opengameart.org
 
 ## Running The Game
 
-To run the game ... All you gotta do is download setup.exe in the repository , run it, go to the generated directory and double click on main, That's it ....For this you won't need python installed on your system
+To run the game ... All you gotta do is download setup.exe from https://drive.google.com/file/d/1w2yPH36dSibjiiRTRJyHPlB3YtDBVnrm/view?usp=sharing , run it, go to the generated directory and double click on main, That's it ....For this you won't need python installed on your system
 
 If you wanna run this game on your ide or wanna play with the code, download this repository , go to Game folder and then run main.py...
 
