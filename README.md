@@ -28,6 +28,7 @@ pip install pygame
 More info at https://www.pygame.org/wiki/GettingStarted
 
 ## Screenshots
+![game gameplay](https://media.giphy.com/media/B5XfGRmHKVjTU0ewRf/giphy.gif)
 
 ![MainMenu](https://github.com/grapeJUICE1/Fruit-Frowns/blob/master/ScreenShots/MainMenu.PNG?raw=true)
 
