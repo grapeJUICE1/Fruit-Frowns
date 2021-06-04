@@ -129,7 +129,8 @@ class PlayingGameScene(Scene):
                         else:
                             self.game.reduceLives(1)
                             GameConstants.BOMB_EXPLODE_SOUND.play()
-
+                if self.Player.draw == False:
+                    self.Player.last_pos = pygame.mouse.get_pos()
 
                 if self.game.getLives <= 0:
                     GameConstants.GAME_OVER_SOUND.play()
