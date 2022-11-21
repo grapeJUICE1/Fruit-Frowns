@@ -1,5 +1,5 @@
 import fixModuleNotFoundError
-import sys, random, os, enum
+import random, os, enum
 import pygame
 from Game.Shared import *
 from Game.Scenes import *

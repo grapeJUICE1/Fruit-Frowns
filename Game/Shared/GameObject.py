@@ -1,4 +1,3 @@
-import math
 class GameObject:
     def __init__(self, pos, size, sprite):
         self.__pos = pos
@@ -25,7 +24,3 @@ class GameObject:
 
     def setSize(self, newSize):
         self.__size = newSize
-
-
-
-

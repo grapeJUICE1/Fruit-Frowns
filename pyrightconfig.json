@@ -1,0 +1,16 @@
+{
+  "include": ["Game"],
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__",
+    "src/experimental",
+    "src/typestubs"
+  ],
+  "defineConstant": {
+    "DEBUG": true
+  },
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+  "pythonVersion": "3.10.6",
+  "pythonPlatform": "Linux"
+}

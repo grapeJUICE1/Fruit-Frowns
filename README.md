@@ -11,7 +11,9 @@ Most of the assets are from opengameart.org
 
 ## Running The Game
 
-To run the game ... All you gotta do is download this repository , go to Game folder and then run main.py...
+To run the game ... All you gotta do is download setup.exe from https://drive.google.com/file/d/1BtI3H3D760mE3xFcsMFBUK3NfIqo0aag/view?usp=sharing , run it, go to the generated directory and double click on main, That's it ....For this you won't need python installed on your system
+
+If you wanna run this game on your ide or wanna play with the code, download this repository , go to Game folder and then run main.py...
 
 > Note that you would need python and pygame installed in your system
 
@@ -26,6 +28,7 @@ pip install pygame
 More info at https://www.pygame.org/wiki/GettingStarted
 
 ## Screenshots
+![game gameplay](https://media.giphy.com/media/B5XfGRmHKVjTU0ewRf/giphy.gif)
 
 ![MainMenu](https://github.com/grapeJUICE1/Fruit-Frowns/blob/master/ScreenShots/MainMenu.PNG?raw=true)
 
